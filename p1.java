@@ -2,6 +2,6 @@ class p1
 {
 public static void main(String[] args)
 {
-System.out.println("Hello Destroyer God");
+System.out.println("Hello Ajay Brar");
 }
 }
