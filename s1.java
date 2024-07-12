@@ -6,10 +6,14 @@ class s1
     {
         int l,b,h;
         Scanner ip=new Scanner(System.in);
-        System.out.println(3"enter the l,b,h ");
-
+        
+        System.out.printf("enter l: ");
         l=ip.nextInt();
+
+        System.out.printf("enter b: ");
         b=ip.nextInt();
+
+        System.out.printf("enter h: ");
         h=ip.nextInt();
         
         System.out.println("Area="+(l*b));
